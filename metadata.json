@@ -1,0 +1,5 @@
+{
+  "name": "PaperAI",
+  "description": "An AI-powered research assistant that analyzes literature to check model novelty and summarize the landscape.",
+  "requestFramePermissions": []
+}
